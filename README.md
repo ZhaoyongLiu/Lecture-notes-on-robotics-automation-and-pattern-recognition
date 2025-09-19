@@ -13,7 +13,7 @@
 
 ### Mechanical engineering
 
-### Communication
+### Communication engineering
 [1] Principles of communication
 
 [2] Signal and system
@@ -27,7 +27,7 @@
 
 ### Computer science
 
-### Aerospace
+### Aerospace engineering
 [1] Principles of Aircraft
 
 
