@@ -16,7 +16,7 @@
 ### Communication engineering
 [1] Principles of communication
 
-[2] Signal and system
+[2] Signals and systems
 
 [3] Information theory and coding
 
