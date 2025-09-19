@@ -1,9 +1,9 @@
 
-## <Robotics>
+## I. Robotics
 
 
 
-## <Automation>
+## II. Automation
 ### Maths
 [1] Numerical analysis  
 6. Function interpolation, Link-> https://zhuanlan.zhihu.com/p/13816136784  
@@ -65,6 +65,6 @@
 [5] Impulsive systems <br>
 
 
-## <Pattern recognition and artificial intelligence>
+## III. Pattern recognition and artificial intelligence
 
 
