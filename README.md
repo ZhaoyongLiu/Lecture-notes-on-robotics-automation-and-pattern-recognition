@@ -6,7 +6,7 @@
 ## II. Automation
 ### a) Maths
 [1] Numerical analysis  
-| 6. Function interpolation| Link-> https://zhuanlan.zhihu.com/p/13816136784 | 
+
 | :-----: | :----: | 
 | 8. Numerical solution of ordinary differential equation| Link-> https://zhuanlan.zhihu.com/p/686293155  | 
 6. Function interpolation, Link-> https://zhuanlan.zhihu.com/p/13816136784  
