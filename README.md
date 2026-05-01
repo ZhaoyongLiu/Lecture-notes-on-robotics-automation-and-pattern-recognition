@@ -103,11 +103,17 @@
     <td>Link-> https://zhuanlan.zhihu.com/p/607642466  </td>
 </tr>
 </table>
-3.2 Delay-independent stability conditions, Link-> https://zhuanlan.zhihu.com/p/536058938  
-3.4 Delay-dependent stability conditions, Link-> https://zhuanlan.zhihu.com/p/607642466
+
 
 [3] Hybrid systems <br>
-1 Hybrid systems modeling, Link-> https://zhuanlan.zhihu.com/p/682537615
+<table>
+<tr>
+    <td>1 Hybrid systems modeling</td>
+    <td>Link-> https://zhuanlan.zhihu.com/p/682537615 </td>
+</tr>
+
+</table>
+
 
 [4] Stocahstic switching systems/Markovian jump systems <br>
 
