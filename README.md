@@ -48,13 +48,23 @@
 </tr>
 
 </table>
-4. Buck converter, Link-> https://zhuanlan.zhihu.com/p/691858580
+
 
 [2] Electric machine/Motor
 
 
 ### h) Elementary control theory
 [1] LMIs in Control Systems <br>
+<table>
+<tr>
+    <td>6. Feedback stabilization</td>
+    <td>Link-> https://zhuanlan.zhihu.com/p/696745282  </td>
+</tr>
+<tr>
+    <td>8. State estimation and filtering</td>
+    <td>Link-> https://zhuanlan.zhihu.com/p/659844054  </td>
+</tr>
+</table>
 6. Feedback stabilization, Link-> https://zhuanlan.zhihu.com/p/696745282  
 8. State estimation and filtering, Link-> https://zhuanlan.zhihu.com/p/659844054
 
