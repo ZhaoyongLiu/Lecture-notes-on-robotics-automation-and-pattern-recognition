@@ -17,12 +17,6 @@
 </tr>
 </table>
 
-| | |
-| --- | --- | 
-| 8. Numerical solution of ordinary differential equation| Link-> https://zhuanlan.zhihu.com/p/686293155  | 
-6. Function interpolation, Link-> https://zhuanlan.zhihu.com/p/13816136784  
-8. Numerical solution of ordinary differential equation, Link-> https://zhuanlan.zhihu.com/p/686293155  
-
 ### b) Physics
 
 ### c) Mechanical engineering
@@ -47,6 +41,13 @@
 
 ### g) Electronic and electrical engineering
 [1] Power electronics technology  
+<table>
+<tr>
+    <td>4. Buck converter</td>
+    <td>Link-> https://zhuanlan.zhihu.com/p/691858580 </td>
+</tr>
+
+</table>
 4. Buck converter, Link-> https://zhuanlan.zhihu.com/p/691858580
 
 [2] Electric machine/Motor
