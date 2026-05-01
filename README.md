@@ -6,17 +6,28 @@
 ## II. Automation
 ### a) Maths
 [1] Numerical analysis  
+<table>
+<tr>
+    <td>Key 1</td>
+    <td>Value 1</td>
+</tr>
+<tr>
+    <td>Key 2</td>
+    <td>Value 2</td>
+</tr>
+</table>
+
 | | |
 | --- | --- | 
 | 8. Numerical solution of ordinary differential equation| Link-> https://zhuanlan.zhihu.com/p/686293155  | 
 6. Function interpolation, Link-> https://zhuanlan.zhihu.com/p/13816136784  
 8. Numerical solution of ordinary differential equation, Link-> https://zhuanlan.zhihu.com/p/686293155  
 
-### 2.2 Physics
+### b) Physics
 
-### 2.3 Mechanical engineering
+### c) Mechanical engineering
 
-### 2.4 Communication engineering
+### d) Communication engineering
 [1] Principles of communication
 
 [2] Signals and systems
@@ -28,28 +39,28 @@
 [5] Wireless communication
 
 
-### 2.5 Computer science
+### e) Computer science
 
-### 2.6 Aerospace engineering
+### f) Aerospace engineering
 [1] Principles of Aircraft
 
 
-### 2.7 Electronic and electrical engineering
+### g) Electronic and electrical engineering
 [1] Power electronics technology  
 4. Buck converter, Link-> https://zhuanlan.zhihu.com/p/691858580
 
 [2] Electric machine/Motor
 
 
-### 2.8 Elementary control theory
+### h) Elementary control theory
 [1] LMIs in Control Systems <br>
 6. Feedback stabilization, Link-> https://zhuanlan.zhihu.com/p/696745282  
 8. State estimation and filtering, Link-> https://zhuanlan.zhihu.com/p/659844054
 
-### 2.9 Advanced control theory
+### i) Advanced control theory
 [1] Stochastic control <br>
 
-### 2.10 Complex dynamical systems
+### j) Complex dynamical systems
 [1] Switched systems <br>
 1.1 Introduction, Link-> https://zhuanlan.zhihu.com/p/539118766  
 2.1 Foundations of stability, Link-> https://zhuanlan.zhihu.com/p/539125483  
