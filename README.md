@@ -65,14 +65,31 @@
     <td>Link-> https://zhuanlan.zhihu.com/p/659844054  </td>
 </tr>
 </table>
-6. Feedback stabilization, Link-> https://zhuanlan.zhihu.com/p/696745282  
-8. State estimation and filtering, Link-> https://zhuanlan.zhihu.com/p/659844054
+
 
 ### i) Advanced control theory
 [1] Stochastic control <br>
 
 ### j) Complex dynamical systems
 [1] Switched systems <br>
+<table>
+<tr>
+    <td>1.1 Introduction</td>
+    <td>Link-> https://zhuanlan.zhihu.com/p/539118766  </td>
+</tr>
+<tr>
+    <td>2.1 Foundations of stability</td>
+    <td>Link-> https://zhuanlan.zhihu.com/p/539125483   </td>
+</tr>
+<tr>
+    <td>3.1 Stability of constrained switched systems (I)</td>
+    <td>Link-> https://zhuanlan.zhihu.com/p/539299349    </td>
+</tr>
+<tr>
+    <td>4.2 Observer design for DSLS</td>
+    <td>Link-> https://zhuanlan.zhihu.com/p/29506030553    </td>
+</tr>
+</table>
 1.1 Introduction, Link-> https://zhuanlan.zhihu.com/p/539118766  
 2.1 Foundations of stability, Link-> https://zhuanlan.zhihu.com/p/539125483  
 3.1 Stability of constrained switched systems (I), Link-> https://zhuanlan.zhihu.com/p/539299349  
