@@ -8,12 +8,12 @@
 [1] Numerical analysis  
 <table>
 <tr>
-    <td>Key 1</td>
-    <td>Value 1</td>
+    <td>6. Function interpolation</td>
+    <td>Link-> https://zhuanlan.zhihu.com/p/13816136784 </td>
 </tr>
 <tr>
-    <td>Key 2</td>
-    <td>Value 2</td>
+    <td>8. Numerical solution of ordinary differential equation</td>
+    <td>Link-> https://zhuanlan.zhihu.com/p/686293155  </td>
 </tr>
 </table>
 
